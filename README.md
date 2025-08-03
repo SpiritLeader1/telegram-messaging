@@ -23,5 +23,5 @@ Environment variables like API tokens are managed securely without committing `.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/SpiritLeader1/telegram-messaging
+cd telegram-messaging
