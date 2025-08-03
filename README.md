@@ -1,4 +1,4 @@
-# Node.js Messaging Bot (Telegram & WhatsApp Overview)
+# Node.js Messaging Bot (Telegram Overview)
 
 ## Project Overview
 
