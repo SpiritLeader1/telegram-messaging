@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: telegram-anonymous-bot-node
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    plan: free
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: OWNER_ID
+        sync: false
